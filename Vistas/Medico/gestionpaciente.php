@@ -177,6 +177,7 @@
                      <th>Fecha registro</th>
                      <th>Numero hora</th>
                      <th>Numero dia</th>
+                     <th>Frecuencia</th>
                      <th></th>
                 </tr>
             </thead>
